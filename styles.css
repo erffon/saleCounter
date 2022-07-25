@@ -1,0 +1,88 @@
+body {
+    height: 100vh;
+    background-color: #DFEFF0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    width: 500px;
+    height: 200px;
+    background-color: white;
+    border-radius: 35px;
+    box-shadow: 1px 1px 10px rgb(223, 223, 223);
+    padding: 15px 30px;
+    position: relative;
+}
+.header {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 33px;
+    background: #EC6F59;
+background: linear-gradient(to right, #EC6F59 0%, #FAD15C 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+    display: inline-block;
+}
+.fire-svg {
+    width:6%;
+    padding-right: 5px;
+}
+
+.counter-container{
+    width: 89%;
+    height: 50%;
+    background-color: #F9F9F9;
+    position: absolute;
+    top: 35%;
+    border-radius: 20px;
+}
+.counter-num {
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+}
+.counter-dots{
+    color: #dfe6e9;
+    font-size: 60px;
+    display: inline-block;
+    position: relative;
+    top:-55px;
+      
+}
+.number {
+    display: inline-block;
+    font-family: 'Anton', sans-serif;
+    color : #636e72;
+    font-size: 40px;
+    margin-top:10px;
+    padding:0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title {
+    font-family: 'Edu TAS Beginner', cursive;
+    color: #b2bec3;
+    font-size: 20px;
+    padding:0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top:-150%;
+}
+.cal-container {
+    position: absolute;
+    left: 47%;
+    top: 75%;
+}
+.calendar{
+    border-radius: 5px;
+    border: 0;
+    padding:10px;
+    color  :#b2bec3;
+    font-size: 13px;
+    font-family: 'Edu TAS Beginner', cursive;
+}
