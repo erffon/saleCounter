@@ -4,7 +4,7 @@ choose your sale last day, the counter will tell you how much does it remain ðŸ˜
 
 ![2022-07-25 19_35_57-OFF sale counter and 2 more pages - Personal - Microsoftâ€‹ Edge](https://user-images.githubusercontent.com/34205377/180812279-41f2b34a-af67-4393-be56-07cd50b9df07.png)
 
-##How is this built?
+## How is this built?
 this mini project is made by :
 - javascript
 - GSAP
